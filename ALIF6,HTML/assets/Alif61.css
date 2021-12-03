@@ -1,0 +1,15 @@
+.Container {
+    
+    margin: 50px auto;
+    width: 800px; height: 500px; 
+}
+img {
+    width: 200px; height: 200px;
+    object-fit: cover;
+    margin: 10px; flex: auto;
+}
+.ReadyBOX {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+}
